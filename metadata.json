@@ -1,0 +1,7 @@
+{
+  "name": "PRISM AI Code Inspector",
+  "description": "Autonomous Defect Prediction, AST Neural Repair, and Vulnerability Remediation Framework",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
